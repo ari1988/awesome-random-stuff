@@ -1,6 +1,6 @@
 # Awesome Random Stuff
 
-> A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais).
+> A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 
 ### February 13, 2026
