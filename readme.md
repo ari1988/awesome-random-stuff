@@ -4,6 +4,7 @@
 
 
 ### February 13, 2026
+- [Command Code](https://commandcode.ai/) — Command code with your taste Command code with your taste Stop fixing sloppy AI code. Command Code continuously learns your coding taste. Powered by taste-1 applied meta neuro-symbolic AI.
 - [shadcn/ui](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code.
 
 ### May 01, 2025
