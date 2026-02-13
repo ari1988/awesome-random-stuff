@@ -3,9 +3,6 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais).
 
 
-### January 1, 2024
-- [Langbase](https://langbase.com/) — AI Cloud in one line of code. AI Cloud in one line of code. The most powerful serverless platform for building AI agents. Build. Deploy. Scale.
-- [Langbase](https://langbase.com/) — AI Cloud in one line of code. AI Cloud in one line of code. The most powerful serverless platform for building AI agents. Build. Deploy. Scale.
 
 ### February 13, 2026
 - [langui](https://github.com/CommandCodeAI/langui) — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
