@@ -6,6 +6,9 @@
 
 
 
+### February 13, 2026
+- [Ahmad Awais - Founder & CEO of CommandCode.ai f/k/a Langbase | Google Developers Advisory Board (gDAB) founding member`](https://ahmadawais.com/) — Ahmad Awais is an award-winning open-source engineering leader,​ founder, and CEO of CommandCode.ai f/k/a Langbase. NASA Mars Inginuity Helicopter mission code-contributor. Angel investor. Ex-VP of Developer Relations, Google Developers Advisory Board founding member, Node.js Community Committee Outreach Lead, Business Governance Board Member Linux Foundation & OpenAPI Initiative, WordPress Core​ Developer​, and previously VP ​of ​Engineering​​ at WGA. He has authored various open-source software tools used by millions of developers worldwide, like his Shades of Purple code theme (5M Dev Users)​ or projects like the​ corona-cli​ (10+ Billion Requests).
+
 ### May 01, 2025
 - [Command.new](https://command.new/) — Build and deploy powerful AI agents in minutes. Command turns prompts into prod-ready agents. From chatting with PDFs to planning your lunch, Command makes it effortless to create intelligent agents with built-in tools, memory, and workflows. Just prompt, sip, and ship.
 
