@@ -5,7 +5,6 @@
 
 ### February 13, 2026
 - [Command Code](https://commandcode.ai/) — Command code with your taste Command code with your taste Stop fixing sloppy AI code. Command Code continuously learns your coding taste. Powered by taste-1 applied meta neuro-symbolic AI.
-- [shadcn/ui](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code.
 
 ### May 01, 2025
 - [Command.new](https://command.new/) — Build and deploy powerful AI agents in minutes. Command turns prompts into prod-ready agents. From chatting with PDFs to planning your lunch, Command makes it effortless to create intelligent agents with built-in tools, memory, and workflows. Just prompt, sip, and ship.
@@ -18,6 +17,9 @@
 
 ### June 13, 2023
 - [langui](https://github.com/CommandCodeAI/langui) — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
+
+### Jan 12, 2023
+- [shadcn/ui](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code.
 
 
 ### December 10, 2021
