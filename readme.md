@@ -1,6 +1,6 @@
 # Awesome Random Stuff
 
-> Collection of interesting & awesome random stuff I find on the World Wide Web.
+> A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais).
 
 
 ### February 13, 2026
