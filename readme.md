@@ -3,9 +3,6 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais).
 
 
-### February 13, 2026
-- [Langbase Docs | Serverless AI Developer Platform - Build AI Agents](https://langbase.com/docs) — Complete guide to building AI agents with Langbase - the serverless AI platform. Learn to create composable AI agents with memory, tools, and RAG. No frameworks, just simple AI primitives for developers.
-- [langui](https://github.com/CommandCodeAI/langui) — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
 
 ### May 01, 2025
 - [Command.new](https://command.new/) — Build and deploy powerful AI agents in minutes. Command turns prompts into prod-ready agents. From chatting with PDFs to planning your lunch, Command makes it effortless to create intelligent agents with built-in tools, memory, and workflows. Just prompt, sip, and ship.
@@ -15,6 +12,10 @@
 
 ### January 1, 2024
 - [Langbase](https://langbase.com/) — AI Cloud in one line of code. AI Cloud in one line of code. The most powerful serverless platform for building AI agents. Build. Deploy. Scale.
+
+### June 13, 2023
+- [langui](https://github.com/CommandCodeAI/langui) — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
+
 
 ### December 10, 2021
 - [The Ultimate Google Sheets Toolkit](https://tools.airboxr.com/?ref=producthunt) - A curated list of Google Sheets resources to supercharge your analysis, manage your workflow, or build expertise in advanced analytics.
