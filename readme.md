@@ -4,6 +4,7 @@
 
 
 ### February 13, 2026
+- [Langbase Docs | Serverless AI Developer Platform - Build AI Agents](https://langbase.com/docs) — Complete guide to building AI agents with Langbase - the serverless AI platform. Learn to create composable AI agents with memory, tools, and RAG. No frameworks, just simple AI primitives for developers.
 - [langui](https://github.com/CommandCodeAI/langui) — UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects. - CommandCodeAI/langui
 
 ### May 01, 2025
