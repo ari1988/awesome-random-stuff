@@ -9,6 +9,9 @@
 ### May 01, 2025
 - [Command.new](https://command.new/) — Build and deploy powerful AI agents in minutes. Command turns prompts into prod-ready agents. From chatting with PDFs to planning your lunch, Command makes it effortless to create intelligent agents with built-in tools, memory, and workflows. Just prompt, sip, and ship.
 
+### January 1, 2024
+- [Langbase](https://langbase.com/) — AI Cloud in one line of code. AI Cloud in one line of code. The most powerful serverless platform for building AI agents. Build. Deploy. Scale.
+
 ### December 10, 2021
 - [The Ultimate Google Sheets Toolkit](https://tools.airboxr.com/?ref=producthunt) - A curated list of Google Sheets resources to supercharge your analysis, manage your workflow, or build expertise in advanced analytics.
 ### November 17, 2021
