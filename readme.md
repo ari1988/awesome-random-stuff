@@ -3,6 +3,9 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais).
 
 
+### February 13, 2026
+- [shadcn/ui](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code.
+
 ### May 01, 2025
 - [Command.new](https://command.new/) — Build and deploy powerful AI agents in minutes. Command turns prompts into prod-ready agents. From chatting with PDFs to planning your lunch, Command makes it effortless to create intelligent agents with built-in tools, memory, and workflows. Just prompt, sip, and ship.
 
