@@ -3,6 +3,9 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 
+### February 15, 2026
+- [sileo](https://github.com/hiaaryan/sileo) — A physics based toast notification library for react. - hiaaryan/sileo
+
 ### February 13, 2026
 - [Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ahmad Awais, CommandCode.ai](https://www.youtube.com/watch?v=kWOQS3XPZ10) — Your coding agent writes code like an LLM bot. CommandCode writes code like me. Every developer has a coding agent now. What if your coding agent actually had...
 - [Command Code](https://commandcode.ai/) — Command code with your taste Command code with your taste Stop fixing sloppy AI code. Command Code continuously learns your coding taste. Powered by taste-1 applied meta neuro-symbolic AI.
