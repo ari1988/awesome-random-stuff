@@ -2,10 +2,6 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
-
-### February 17, 2026
-- [Sileo — Beautiful Toast Notifications for React](https://sileo.aaryan.design/) — A tiny, beautiful, physics-based toast component for React. Gooey SVG morphing, spring animations, and zero dependencies.
-
 ### February 15, 2026
 - [sileo](https://github.com/hiaaryan/sileo) — A physics based toast notification library for react. - hiaaryan/sileo
 
