@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 17, 2026
+- [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
+
 ### February 15, 2026
 - [sileo](https://github.com/hiaaryan/sileo) — A physics based toast notification library for react. - hiaaryan/sileo
 
