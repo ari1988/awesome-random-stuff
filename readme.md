@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 18, 2026
+- [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 - [blackboardsh/goldfishdb](https://github.com/blackboardsh/goldfishdb) — A lightweight in-memory document database with TypeScript-first design and atomic writes. - blackboardsh/goldfishdb
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
 
