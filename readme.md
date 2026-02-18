@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 18, 2026
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) — Build ultra fast, tiny, and cross-platform desktop apps with Typescript. - blackboardsh/electrobun
+
 ### February 17, 2026
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio powered by Qwen3-TTS. - jamiepine/voicebox
 - [Voicebox](https://voicebox.sh/) — Near-perfect voice cloning powered by Qwen3-TTS. Desktop app for Mac, Windows, and Linux. Multi-sample support, smart caching, local or remote inference.
