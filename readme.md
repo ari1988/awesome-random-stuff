@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 21, 2026
+- [words.awais.dev](https://words.awais.dev/) — Free online word counter and character counter. Instantly count words, characters, sentences, paragraphs, read time, speak time, unique words, vocabulary density, word frequency, emoji, URLs, hashtags, and more. No signup required.
+
 ### February 20, 2026
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw/tree/main) — A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK - qwibitai/nanoclaw
 - [visual-json](https://github.com/vercel-labs/visual-json) — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
