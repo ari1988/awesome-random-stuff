@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 20, 2026
+- [visual-json](https://github.com/vercel-labs/visual-json) — The Visual JSON Editor. Schema-aware, embeddable, extensible. - vercel-labs/visual-json
+
 ### February 18, 2026
 - [Mockdown](https://www.mockdown.design/) — Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components — no signup required.
 - [Wiretext](https://wiretext.app/) — Unicode Wireframe Design Tool. A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
