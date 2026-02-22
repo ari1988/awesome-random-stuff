@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 22, 2026
+- [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
+
 ### February 21, 2026
 - [words.awais.dev](https://words.awais.dev/) — Free online word counter and character counter. Instantly count words, characters, sentences, paragraphs, read time, speak time, unique words, vocabulary density, word frequency, emoji, URLs, hashtags, and more. No signup required.
 
