@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 22, 2026
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
 - [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
 
 ### February 21, 2026
