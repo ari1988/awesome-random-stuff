@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 23, 2026
+- [Paletton - The Color Scheme Designer](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) — In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
+
 ### February 22, 2026
 - [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) — A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown. - typedoc2md/typedoc-plugin-markdown
 - [TypeStrong/typedoc](https://github.com/TypeStrong/TypeDoc) — Documentation generator for TypeScript projects. Contribute to TypeStrong/typedoc development by creating an account on GitHub.
