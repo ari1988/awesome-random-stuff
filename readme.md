@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 23, 2026
+- [Color Palette App | BairesDev](https://www.bairesdev.com/tools/color-palette-app/editor/) — The definite color palette editing and remapping tool.
 - [ColorSpace](https://mycolor.space/) — Color Palettes Generator and Color Gradient Tool
 - [Coolors.co](https://coolors.co/) — The super fast color palettes generator!. Generate or browse beautiful color combinations for your designs.
 - [Paletton 5 BETA](https://beta.paletton.com/#uid=3000u0kllllaFw0g0qFqFg0w0aF) — The color palette designer beta.
