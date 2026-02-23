@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 23, 2026
+- [Color Hunt](https://colorhunt.co/) — Color Palettes for Designers and Artists. Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
 - [Color Palette App | BairesDev](https://www.bairesdev.com/tools/color-palette-app/editor/) — The definite color palette editing and remapping tool.
 - [ColorSpace](https://mycolor.space/) — Color Palettes Generator and Color Gradient Tool
 - [Coolors.co](https://coolors.co/) — The super fast color palettes generator!. Generate or browse beautiful color combinations for your designs.
