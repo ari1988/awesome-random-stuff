@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 23, 2026
+- [ColorSpace](https://mycolor.space/) — Color Palettes Generator and Color Gradient Tool
 - [Coolors.co](https://coolors.co/) — The super fast color palettes generator!. Generate or browse beautiful color combinations for your designs.
 - [Paletton 5 BETA](https://beta.paletton.com/#uid=3000u0kllllaFw0g0qFqFg0w0aF) — The color palette designer beta.
 - [Paletton - The Color Scheme Designer](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) — In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
