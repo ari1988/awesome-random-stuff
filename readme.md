@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### February 23, 2026
+- [Color Hex](https://www.colorhexa.com/) — Color hex encyclopedia providing information about any color. 🌟 Detailed
 - [ColorKit](https://colorkit.io/) — Color Blending Tool. ColorKit blends colors and generates a color's shades and tints.
 - [Color Hunt](https://colorhunt.co/) — Color Palettes for Designers and Artists. Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
 - [Color Palette App | BairesDev](https://www.bairesdev.com/tools/color-palette-app/editor/) — The definite color palette editing and remapping tool.
