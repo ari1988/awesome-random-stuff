@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### February 26, 2026
+- [YEN](https://yen.chat/) — YEN is a GPU-accelerated terminal for macOS with command palette, universal speech-to-text, and built-in file browser. Metal rendering, 60 FPS.
+
 ### February 23, 2026
 - [BADA55.io](http://bada55.io/) — FUN!! CSS hex color words for web developers. Looking for a BADA55 hex color words for your css code? Come here now!
 - [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) — Curated color palette inspiration
