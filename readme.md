@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### March 1, 2026
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
+
 ### February 26, 2026
 - [YEN](https://yen.chat/) — YEN is a GPU-accelerated terminal for macOS with command palette, universal speech-to-text, and built-in file browser. Metal rendering, 60 FPS.
 
