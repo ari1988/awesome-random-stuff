@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### March 1, 2026
+- [Web Haptic Feedback](https://chanhdai.com/components/haptic) — Trigger haptic feedback on mobile devices.
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com?utm_source=chanhdai.com) — A minimal, pixel-perfect dev portfolio, component registry, and blog. - ncdai/chanhdai.com
 
 ### February 26, 2026
