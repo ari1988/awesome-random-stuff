@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### March 19, 2026
+- [Conversion kit (disable free emails from lead gen)](https://www.fillout.com/conversion-kit) — Convert more leads with the Fillout Conversion Kit. Make optimized lead generation forms with drop-off reminders, data enrichment, intelligent autocomplete, ad tracking and more.
+
 ### March 2, 2026
 - [evlog](https://www.evlog.dev/) — Stop grepping through chaos. Wide events and structured errors for TypeScript. One log per request, full context, errors that explain why and how to fix.
 
