@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### March 23, 2026
+- [PinchTab — Browser Control for AI Agents](https://pinchtab.com/) — PinchTab gives AI agents precise, reliable control over browsers. Automate the web at a new level.
+
 ### March 19, 2026
 - [Conversion kit (disable free emails from lead gen)](https://www.fillout.com/conversion-kit) — Convert more leads with the Fillout Conversion Kit. Make optimized lead generation forms with drop-off reminders, data enrichment, intelligent autocomplete, ad tracking and more.
 
