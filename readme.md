@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### March 27, 2026
+- [The Developer-First Consent Banner](https://c15t.com/) — c15t is an open source framework for managing cookies, consent, and privacy compliance. Built for modern web apps. It's fully customizable, framework-agnostic, and designed to give developers full control over the user experience without black-box logic or vendor lock-in
+
 ### March 23, 2026
 - [PinchTab — Browser Control for AI Agents](https://pinchtab.com/) — PinchTab gives AI agents precise, reliable control over browsers. Automate the web at a new level.
 
