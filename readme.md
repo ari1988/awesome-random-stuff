@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### March 31, 2026
+- [Recordly](https://github.com/webadderall/Recordly) — Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. - webadderall/Recordly
 - [openscreen](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - siddharthvaddem/openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
 
