@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### March 31, 2026
+- [Open Screen](https://openscreen.vercel.app/) — OSS version of Screen Studio Professional screen recordings with zoom effects, annotations, and beautiful backgrounds.
+
 ### March 27, 2026
 - [The Developer-First Consent Banner](https://c15t.com/) — c15t is an open source framework for managing cookies, consent, and privacy compliance. Built for modern web apps. It's fully customizable, framework-agnostic, and designed to give developers full control over the user experience without black-box logic or vendor lock-in
 
