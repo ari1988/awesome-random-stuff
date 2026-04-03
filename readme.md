@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### April 2, 2026
+- [Stream Cam Animated Border Tool](https://bordertool.squeeble.app/) — The animated border tool for streamers! Easy setup with the possibility for complex animated borders
+
 ### March 31, 2026
 - [Screen Studio alternatives](https://x.com/heynavtoor/status/2039002555200700908) — Screen Studio alternatives in X thread
 - [screen01](https://screen01.app/) — Free but not open source - professional screen recording for macOS. Automatic zoom, smooth cursor effects, beautiful backgrounds, and cinematic motion. Download now.
