@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### April 6, 2026
+- [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
+
 ### April 2, 2026
 - [Stream Cam Animated Border Tool](https://bordertool.squeeble.app/) — The animated border tool for streamers! Easy setup with the possibility for complex animated borders
 
