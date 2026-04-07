@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### April 6, 2026
+- [xandemon/developer-icons](https://github.com/xandemon/developer-icons) — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
 - [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
 
 ### April 2, 2026
