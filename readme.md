@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### April 22, 2026
+- [cli taste of dthyresson](https://commandcode.ai/dthyresson/cli?tab=taste) — dthyresson/cli taste package on Command Code. Install and use this coding configuration. Command Code is a coding agent that continuously learns your coding taste. Our meta neuro-symbolic AI model taste-1 with continuous reinforcement learning combines LLMs with your coding taste.
+
 ### April 6, 2026
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) — A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. - xandemon/developer-icons
 - [Developer Icons](https://xandemon.github.io/developer-icons/) — An open-source collection of optimized and customizable SVG icons for popular technologies, frameworks, and tools used by developers. Free, scalable, and easy to use.
