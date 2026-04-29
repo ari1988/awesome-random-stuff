@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### April 29, 2026
+- [Anime.js](https://animejs.com/) — A fast, multipurpose and lightweight JavaScript animation library
+
 ### April 22, 2026
 - [cli taste of dthyresson](https://commandcode.ai/dthyresson/cli?tab=taste) — dthyresson/cli taste package on Command Code. Install `npx taste pull dthyresson/cli`
 
