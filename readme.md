@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### June 7, 2026
+- [Newt — pixel art, code underneath](https://newt.sh/) — A code-native pixel art tool. Paint like a normal raster editor; underneath, every pixel is a color token in clean, editable code. Export SVG, CSS, React, PNG, and GIF.
+
 ### April 29, 2026
 - [Anime.js](https://animejs.com/) — A fast, multipurpose and lightweight JavaScript animation library
 
