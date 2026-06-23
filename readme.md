@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### June 23, 2026
+- [beUI · Production-ready motion components for React & Next.js](https://beui.dev/) — Free, open-source, shadcn-compatible motion components for React and Next.js. Built on Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.
 - [Spokenly: Free AI Dictation App for Mac, iPhone & Windows](https://spokenly.app/) — Free dictation app for Mac, iPhone, and Windows. Speak in any app and get accurate text from local Whisper or modern cloud models. 100+ languages, offline.
 - [FluidVoice - Free Open Source Voice-to-Text for macOS](https://altic.dev/fluid) — Free open source voice-to-text for macOS. Local-first dictation with Parakeet, Apple Speech, Whisper, AI enhancement, command mode, write mode, and Intel support through Whisper.
 
