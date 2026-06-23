@@ -3,6 +3,7 @@
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
 ### June 23, 2026
+- [Spokenly: Free AI Dictation App for Mac, iPhone & Windows](https://spokenly.app/) — Free dictation app for Mac, iPhone, and Windows. Speak in any app and get accurate text from local Whisper or modern cloud models. 100+ languages, offline.
 - [FluidVoice - Free Open Source Voice-to-Text for macOS](https://altic.dev/fluid) — Free open source voice-to-text for macOS. Local-first dictation with Parakeet, Apple Speech, Whisper, AI enhancement, command mode, write mode, and Intel support through Whisper.
 
 ### June 7, 2026
