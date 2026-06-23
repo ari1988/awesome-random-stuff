@@ -2,6 +2,9 @@
 
 > A running log of interesting discoveries from the web by [Ahmad Awais](https://x.com/MrAhmadAwais) using [Gitmark](https://github.com/ahmadawais/gitmark).
 
+### June 23, 2026
+- [FluidVoice - Free Open Source Voice-to-Text for macOS](https://altic.dev/fluid) — Free open source voice-to-text for macOS. Local-first dictation with Parakeet, Apple Speech, Whisper, AI enhancement, command mode, write mode, and Intel support through Whisper.
+
 ### June 7, 2026
 - [Newt — pixel art, code underneath](https://newt.sh/) — A code-native pixel art tool. Paint like a normal raster editor; underneath, every pixel is a color token in clean, editable code. Export SVG, CSS, React, PNG, and GIF.
 
